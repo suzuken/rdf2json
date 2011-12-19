@@ -13,4 +13,7 @@ Other language will be used later.
 json format
 -----------
 
+based on talis' specification.
 
+* RDF JSON - docs.api
+** http://docs.api.talis.com/platform-api/output-types/rdf-json
