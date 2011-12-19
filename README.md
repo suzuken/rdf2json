@@ -17,3 +17,8 @@ based on talis' specification.
 
 * RDF JSON - docs.api
 ** http://docs.api.talis.com/platform-api/output-types/rdf-json
+
+TODO
+----
+
+* test with RDF-testcases (http://www.w3.org/TR/rdf-testcases/)
